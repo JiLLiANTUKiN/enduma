@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1360945343 source:c:\users\rafael.school\documents\pup docs\data structure\enduma\main.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1360945287 c:\users\rafael.school\documents\pup docs\data structure\enduma\yehey.h
+
+1360945442 source:c:\users\rafael.school\documents\pup docs\data structure\enduma\yehey.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<stdint.h>
+
+1360945343 source:c:\users\rafael.school\desktop\enduma\main.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1360945287 c:\users\rafael.school\desktop\enduma\yehey.h
+
+1360946184 source:c:\users\rafael.school\desktop\enduma\yehey.cpp
+	"yehey.h"
+	<iostream>
+	<string>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<stdint.h>
+
